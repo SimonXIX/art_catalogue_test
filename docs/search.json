@@ -5,5 +5,12 @@
     "title": "Art catalogue test",
     "section": "",
     "text": "Introduction"
+  },
+  {
+    "objectID": "colophon.html",
+    "href": "colophon.html",
+    "title": "Colophon",
+    "section": "",
+    "text": "PUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA\nOpen Science Lab - TIB Hannnover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
   }
 ]

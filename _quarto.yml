@@ -8,7 +8,7 @@ book:
   date: "2023-03-01"
   chapters:
     - index.qmd
-    - html/document-1.html
+    - colophon.ipynb
   repo-url: https://github.com/SimonXIX/art_catalogue_test
   repo-actions: [edit]
   downloads: [pdf]
@@ -20,7 +20,6 @@ comments:
 
 format:
   html:
-    css: html/css/ada001.css
     theme: minty
     number-sections: false
   pdf:
